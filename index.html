@@ -6,9 +6,51 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <style>
+        #rent-form {
+            background-color: bisque;
+            width: 150px;
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+        }
+        #submit-btn{
+            margin: 10px;
+            background-color: white;
+        }
+    </style>
 </head>
 <body>
-    <h1>Hello World!</h1>
-    <p>Labas, mano <u>vardas</u> yra <strong>Artūras</strong>. Man labai patinka <i>HTML</i></p>
+<form id="rent-form" action="/action_page.php">
+    <label for="fname">First name:</label>
+    <input type="text" id="fname" name="fname" placeholder="Your name?" required>
+    <label for="lname">Last name:</label>
+    <input type="text" id="lname" name="lname" placeholder="Your last name?" required>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" placeholder="Your email?" required>
+    <label for="phone">Phone number:</label>
+    <input type="tel" id="phone" name="phone" placeholder="Your phone number?" required>
+    <label for="service">Choose a service:</label>
+    <select id="service" name="service">
+        <option value="c-r">Rent a car</option>
+        <option value="b-r">Rent a bicycle</option>
+        <option value="s-r">Rent a scooter</option>
+    </select>
+    <label for="start">Start date:</label>
+    <input type="date" id="start" name="rent-start"
+           value="2022-05-05"
+           min="2022-05-05" max="2027-05-05">
+    <label for="end">End date:</label>
+    <input type="date" id="end" name="rent-end"
+           value="2022-05-05"
+           min="2022-05-05" max="2027-05-05">
+    <label for="city">Choose a city:</label>
+    <select id="city" name="city">
+        <option value="Kaunas">Kaunas</option>
+        <option value="Vilnius">Vilnius</option>
+        <option value="Klaipėda">Klaipėda</option>
+    </select>
+    <input id="submit-btn" type="submit" value="Rent it">
+</form>
 </body>
 </html>
