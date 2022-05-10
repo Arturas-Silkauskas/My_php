@@ -1,10 +1,20 @@
 a {
     text-decoration: none;
-    color: black;
+    color: blue;
     font-family: "Montserrat", sans-serif;
-    font-weight: 400;
+    font-weight: 300;
+}
+li {
+    width: 190px;
+    border: 2px solid blue;
+    margin: 1px;
+    padding: 5px;
 }
 a:hover {
-    color: red;
-    text-decoration: underline;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    width: 100px;
 }
