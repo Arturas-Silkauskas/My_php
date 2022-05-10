@@ -1,9 +1,10 @@
 a {
     text-decoration: none;
     color: black;
-    font-family: "Montserrat";
+    font-family: "Montserrat", sans-serif;
     font-weight: 400;
 }
 a:hover {
     color: red;
+    text-decoration: underline;
 }
