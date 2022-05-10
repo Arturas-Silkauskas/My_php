@@ -7,7 +7,7 @@ a {
 li {
     width: 190px;
     border: 2px solid blue;
-    margin: 1px;
+    margin: 2px;
     padding: 5px;
 }
 a:hover {
@@ -16,5 +16,4 @@ a:hover {
 
 ul {
     list-style-type: none;
-    width: 100px;
 }
