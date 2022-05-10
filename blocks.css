@@ -1,18 +1,17 @@
 .main-block {
     width: 100vw;
     height: 100vh;
-    display: flex;
 }
 .one {
-    height: 270px;
-    width: 270px;
+    height: 300px;
+    width: 300px;
     padding: 30px;
     border: 4px solid yellow;
     background-color: darkred;
 }
 .two{
-    height: 250px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
     padding: 50px;
     border: 4px solid pink;
     background-color: darkgreen;
