@@ -1,5 +1,8 @@
 a {
     text-decoration: none;
+    color: black;
+    font-family: "Montserrat";
+    font-weight: 400;
 }
 a:hover {
     color: red;
