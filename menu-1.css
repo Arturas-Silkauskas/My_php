@@ -1,19 +1,23 @@
 a {
     text-decoration: none;
-    color: blue;
+    color: white;
     font-family: "Montserrat", sans-serif;
-    font-weight: 300;
-}
-li {
-    width: 190px;
-    border: 2px solid blue;
-    margin: 2px;
+    font-weight: 700;
+    display: block;
     padding: 5px;
 }
-a:hover {
-    font-weight: bold;
+li {
+    background-color: black;
+    border: 1px solid black;
+    width: 200px;
+    margin: 2px;
 }
-
+a:hover {
+    color: black;
+}
+li:hover {
+    background-color: white;
+}
 ul {
     list-style-type: none;
 }
