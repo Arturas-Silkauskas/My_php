@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f006698a-4f45-4d77-b112-cf5942761551" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bootstrap-lessons/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/previous-tasks/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous-tasks/menu-1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous-tasks/menu-2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/previous-tasks/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/responsive-flexbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous-tasks/responsive-flexbox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/responsive-flexbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/previous-tasks/responsive-flexbox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous-tasks/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/responsive.html" beforeDir="false" afterPath="$PROJECT_DIR$/previous-tasks/responsive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/responsive2.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous-tasks/responsive2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/responsive2.html" beforeDir="false" afterPath="$PROJECT_DIR$/previous-tasks/responsive2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous-tasks/styles2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-lessons/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-lessons/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +62,7 @@
       <workItem from="1651763796368" duration="8113000" />
       <workItem from="1652108267198" duration="14817000" />
       <workItem from="1652281118592" duration="13781000" />
-      <workItem from="1652713432851" duration="4996000" />
+      <workItem from="1652713432851" duration="6274000" />
     </task>
     <servers />
   </component>
