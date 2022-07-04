@@ -2,10 +2,138 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f006698a-4f45-4d77-b112-cf5942761551" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bootstrap-lessons/5_18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-01/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-01/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-01/app3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-01/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-02/apps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-02/array-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-02/arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-02/task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-02/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-06/Arrays/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-06/Arrays/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-06/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-06/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-06/app3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-06/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-08/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-08/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-09/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-09/task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-09/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-13/calculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-13/calculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-13/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-13/task1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-16/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-16/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-16/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-16/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-16/task1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-20/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-20/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-20/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-22/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-22/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-22/task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-23/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-23/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-23/carTask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-23/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-23/task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-23/task2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-27/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-27/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-27/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-27/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-27/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-29/final.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-29/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-03/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-03/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-04/flexbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-04/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-04/styles2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-04/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-04/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-05/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-05/styles2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-05/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-05/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-09/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-09/styles2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-09/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-09/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-10/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-10/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-11/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-11/styles2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-11/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-11/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-12/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-12/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-16/bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-17/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-17/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-18/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-24/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-24/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-24/number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-24/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-25/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-25/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-25/app3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-25/app4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-25/app5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-25/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-25/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-25/task3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-25/task4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-25/task5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-26/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-26/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-26/app3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-26/strings/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-26/strings/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-26/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-26/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-26/task3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-30/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-30/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-30/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-30/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-31/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-31/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-31/app3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-31/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-31/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-academy-may-2022/2022-05-31/task3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-lessons/5_17.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-lessons/5_18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-lessons/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/blocks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/blocks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/form2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/menu-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/menu-2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/responsive-flexbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/responsive-flexbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/responsive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/responsive2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/responsive2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/styles2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/task2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/previous-tasks/task3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/script.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +174,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\silka\Desktop\code-academy\code-academy-june-2022\Lecture 3" />
       <recent name="C:\Users\silka\Desktop\code-academy\previous-tasks" />
     </key>
   </component>
@@ -71,7 +200,8 @@
       <workItem from="1652979942159" duration="654000" />
       <workItem from="1653322830800" duration="4030000" />
       <workItem from="1653496053188" duration="705000" />
-      <workItem from="1653579275206" duration="607000" />
+      <workItem from="1653579275206" duration="1781000" />
+      <workItem from="1656933910576" duration="7283000" />
     </task>
     <servers />
   </component>

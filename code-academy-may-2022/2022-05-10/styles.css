@@ -1,0 +1,96 @@
+/* FIRST */
+#menu-1 a:hover {
+    cursor: pointer;
+    color: red;
+}
+#menu-1 li:hover {
+    text-decoration: underline;
+}
+#menu-1 a:link, a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
+
+/* SECOND */
+#menu-2 ul {
+    list-style: none;
+}
+#menu-2 li {
+    width: 200px;
+    border: 1px solid blue;
+    margin: 10px 10px 0px 0px;
+    padding: 5px;
+}
+#menu-2 a:link, a:visited {
+    text-decoration: none;
+    color: blue;
+}
+#menu-2 a:hover {
+    font-weight: bold;
+}
+
+/* THIRD */
+#menu-3 li {
+    width: 200px;
+    border: 1px solid grey;
+    margin: 10px 10px 0px 0px;
+    padding: 5px;
+    background-color: grey;
+}
+#menu-3 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+#menu-3 ul {
+    list-style: none;
+}
+#menu-3 li:hover {
+    background-color: white;
+    border: 1px solid black;
+    cursor: pointer;
+}
+#menu-3 li:hover a {
+    color: black;
+}
+
+/* FOURTH */
+#menu-4 ul {
+    list-style: none;
+}
+#menu-4 li {
+    display: inline-block;
+}
+#menu-4 a {
+    border: 1px solid blue;
+    width: 100px;
+    margin: 10px 10px 0px 0px;
+    padding: 5px;
+    text-decoration: none;
+    text-align: center;
+}
+#menu-4 a:hover {
+    color: red;
+}
+
+/* FIFTH */
+#menu-5 ul {
+    list-style: none;
+}
+#menu-5 li {
+    display: inline-block;
+}
+#menu-5 a {
+    border: 1px solid blue;
+    width: 100px;
+    margin: 10px 10px 0px 0px;
+    padding: 5px;
+    text-decoration: none;
+    text-align: center;
+}
+#menu-5 a:hover {
+    background-color: grey;
+    color: white;
+    border-color: black;
+}

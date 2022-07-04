@@ -1,0 +1,39 @@
+main {
+    width: 1200px;
+    margin: auto;
+    background-color: cadetblue;
+    height: 100vh;
+}
+section {
+    height:50%;
+    outline: 1px solid black;
+}
+section h1, div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section h1 {
+    height:300px;
+}
+img {
+    width: 397px;
+    height: 100%;
+    display: inline-block;
+    margin: none;
+    outline: 1px solid black;
+}
+button {
+    background-color: #697c11;
+    border: 1px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
