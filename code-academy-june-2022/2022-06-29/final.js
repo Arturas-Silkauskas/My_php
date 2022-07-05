@@ -1,10 +1,6 @@
-// FIRST TASK
-
 document.querySelector('.first')?.addEventListener('click', function() {
     alert('Hello world!');
 });
-
-// SECOND TASK
 
 let inpt = document.querySelector('#input1');
 let btn1 = document.querySelector('#button1')
@@ -25,13 +21,13 @@ btn4?.addEventListener('click', function() {
     inpt.value = inpt.value[0].toLowerCase() + inpt.value.slice(1);
 })
 
-// THIRD TASK
 
 let email = document.querySelector('#email');
 let phone = document.querySelector('#phone');
 let btnSave = document.querySelector('#saveBtn');
 let checkEmail = document.querySelector('#checkemail');
 let checkPhone = document.querySelector('#checkphone');
+
 
 btnSave?.addEventListener('click', function() {
     if (!email.value.includes('@') && phone.value == "") {
@@ -52,21 +48,19 @@ btnSave?.addEventListener('click', function() {
     }
 });
 
-// FOURTH TASK
 
-let blockButton = document.querySelector('#blockBtn');
-let unblockButton = document.querySelector('#unblockBtn');
+let block = document.querySelector('#blockBtn');
+let unblock = document.querySelector('#unblockBtn');
 let inputBlockUnblock = document.querySelector('#blockUnblock');
 
-blockButton?.addEventListener('click', function() {
+block?.addEventListener('click', function() {
     inputBlockUnblock?.setAttribute('readonly','');
 });
 
-unblockButton?.addEventListener('click', function() {
+unblock?.addEventListener('click', function() {
     inputBlockUnblock?.removeAttribute('readonly');
 });
 
-// FIFTH TASK
 
 let img = document.querySelector('#imgMonkeys');
 
@@ -77,16 +71,12 @@ img?.addEventListener('mouseleave', function() {
     img.setAttribute('src', 'https://i.imgur.com/0DElr0H.jpg');
 });
 
-// SIXTH TASK
-
-let reset = document.querySelector('#reset')
 
 let pointer = document.querySelector('#pointer');
 let text = document.querySelector('#text');
 let copy = document.querySelector('#copy');
 let help = document.querySelector('#help');
 let crosshair = document.querySelector('#crosshair');
-
 let changeText = document.querySelector('#randomText');
 let redColor = document.querySelector('#redColor');
 let greenColor = document.querySelector('#greenColor');
@@ -94,6 +84,7 @@ let blueColor = document.querySelector('#blueColor');
 let redBorder = document.querySelector('#redBorder');
 let greenBorder = document.querySelector('#greenBorder');
 let blueBorder = document.querySelector('#blueBorder');
+let reset = document.querySelector('#reset')
 
 redColor?.addEventListener('click', function(e) {
     e.preventDefault();
@@ -148,7 +139,7 @@ crosshair?.addEventListener('click', function(e) {
 
 reset?.addEventListener('click', function(e) {
     e.preventDefault();
+    document.body.style.cursor = 'auto';
     changeText.style.color = 'black';
     changeText.style.border = 'none';
-    document.body.style.cursor = 'auto';
 })
