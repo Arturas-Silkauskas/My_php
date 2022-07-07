@@ -1,9 +1,11 @@
 // -- ONE -- //
+
 document.querySelector('.first')?.addEventListener('click', function() {
     alert('Hello world!');
 });
 
 // -- TWO -- //
+
 let inpt = document.querySelector('#input1')
 let btn1 = document.querySelector('#button1')
 let btn2 = document.querySelector('#button2')
@@ -24,6 +26,7 @@ btn4?.addEventListener('click', function() {
 })
 
 // -- THREE -- //
+
 let saveButton = document.querySelector('#saveBtn')
 
 function eValidate() {
@@ -79,7 +82,6 @@ unblock?.addEventListener('click', function() {
     inputBlockUnblock?.removeAttribute('readonly');
 });
 
-
 // -- FIVE -- //
 
 let img = document.querySelector('#imgMonkeys');
@@ -121,7 +123,6 @@ blueColor?.addEventListener('click', function(e) {
 });
 
 
-
 redBorder?.addEventListener('click', function(e) {
     e.preventDefault();
     changeText.style.border = '2px solid red';
@@ -134,7 +135,6 @@ blueBorder?.addEventListener('click', function(e) {
     e.preventDefault();
     changeText.style.border = '2px solid blue';
 });
-
 
 
 pointer?.addEventListener('click', function(e) {
