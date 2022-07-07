@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f006698a-4f45-4d77-b112-cf5942761551" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-academy-june-2022/2022-06-29/final.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-29/final.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code-academy-june-2022/2022-06-29/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/code-academy-june-2022/2022-06-29/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <workItem from="1656933910576" duration="7283000" />
       <workItem from="1656947249647" duration="6854000" />
       <workItem from="1657035542547" duration="2085000" />
-      <workItem from="1657182316316" duration="8536000" />
+      <workItem from="1657182316316" duration="8710000" />
     </task>
     <servers />
   </component>
