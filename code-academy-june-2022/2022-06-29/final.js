@@ -1,8 +1,10 @@
+// -- ONE -- //
 document.querySelector('.first')?.addEventListener('click', function() {
     alert('Hello world!');
 });
 
-let inpt = document.querySelector('#input1');
+// -- TWO -- //
+let inpt = document.querySelector('#input1')
 let btn1 = document.querySelector('#button1')
 let btn2 = document.querySelector('#button2')
 let btn3 = document.querySelector('#button3')
@@ -21,33 +23,49 @@ btn4?.addEventListener('click', function() {
     inpt.value = inpt.value[0].toLowerCase() + inpt.value.slice(1);
 })
 
+// -- THREE -- //
+let saveButton = document.querySelector('#saveBtn')
 
-let email = document.querySelector('#email');
-let phone = document.querySelector('#phone');
-let btnSave = document.querySelector('#saveBtn');
-let checkEmail = document.querySelector('#checkemail');
-let checkPhone = document.querySelector('#checkphone');
+function eValidate() {
+    const $eResult = $('#emailResult');
+    const email = $('#email').val();
+    const re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
 
-
-btnSave?.addEventListener('click', function() {
-    if (!email.value.includes('@') && phone.value == "") {
-        email.classList.add('is-invalid');
-        checkEmail.style.display = 'block';
-        phone.classList.add('is-invalid');
-        checkPhone.style.display = 'block';
-    }else if (!email.value.includes('@')) {
-        email.classList.add('is-invalid');
-        checkEmail.style.display = 'block';
-        phone.classList.remove('is-invalid');
-        checkPhone.style.display = 'none';
-    }else if (phone.value == "") {
-        phone.classList.add('is-invalid');
-        checkPhone.style.display = 'block';
-        email.classList.remove('is-invalid');
-        checkEmail.style.display = 'none';
+    if (!re.test(email)){
+        $eResult.text(email + ' is not valid');
+        $eResult.css('color', 'red');
+        $eResult.css('font-size', '12px');
+    } else {
+        $eResult.text(email + ' is valid');
+        $eResult.css('color', 'green');
+        $eResult.css('font-size', '12px');
     }
+    return false;
+}
+
+function pValidate(){
+    const $pResult = $('#phoneResult');
+    const phone = $('#phone').val();
+    const re = /^(86)(\d{7})$/;
+
+    if (!re.test(phone)) {
+        $pResult.text(phone + ' is not valid');
+        $pResult.css('color', 'red');
+        $pResult.css('font-size', '12px');
+    } else {
+        $pResult.text(phone + ' is valid');
+        $pResult.css('color', 'green');
+        $pResult.css('font-size', '12px');
+    }
+}
+
+saveButton?.addEventListener('click', function (e){
+    e.preventDefault();
+    pValidate();
+    eValidate();
 });
 
+// -- FOUR -- //
 
 let block = document.querySelector('#blockBtn');
 let unblock = document.querySelector('#unblockBtn');
@@ -62,6 +80,8 @@ unblock?.addEventListener('click', function() {
 });
 
 
+// -- FIVE -- //
+
 let img = document.querySelector('#imgMonkeys');
 
 img?.addEventListener('mouseenter', function() {
@@ -71,6 +91,7 @@ img?.addEventListener('mouseleave', function() {
     img.setAttribute('src', 'https://i.imgur.com/0DElr0H.jpg');
 });
 
+// -- SIX -- //
 
 let pointer = document.querySelector('#pointer');
 let text = document.querySelector('#text');
