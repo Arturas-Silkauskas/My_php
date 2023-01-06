@@ -42,9 +42,9 @@ CREATE TABLE `comment` (
 --
 
 INSERT INTO `comment` (`Comment_ID`, `Parent_Comment_ID`, `Email`, `Name`, `Comment`, `Date`) VALUES
-                                                                                                  (20, 0, 'arturas@gmail.com', 'Arturas test', 'Hi', '2018-07-20 17:16:01'),
-                                                                                                  (21, 20, 'arturas@gmail.com', 'Arturas test', 'Hello', '2018-07-20 17:16:10'),
-                                                                                                  (22, 0, 'arturas@gmail.com', 'Arturas test', 'Hey', '2018-07-20 17:16:19');
+                                                                                                  (20, 0, 'arturas@gmail.com', 'Arturas test', 'Hi', '2022-07-20 17:16:01'),
+                                                                                                  (21, 20, 'arturas@gmail.com', 'Arturas test', 'Hello', '2022-07-20 17:16:10'),
+                                                                                                  (22, 0, 'arturas@gmail.com', 'Arturas test', 'Hey', '2022-07-20 17:16:19');
 
 --
 -- Indexes for dumped tables
